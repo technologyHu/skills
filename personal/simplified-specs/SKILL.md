@@ -1,5 +1,5 @@
 ---
-name: evolve-specs
+name: simplified-specs
 description: |
   为代码项目生成和演化规范文档（specs）。当用户提到"生成specs"、"创建specs"、"初始化specs"、"演化specs"、"更新架构文档"、"优化规范文档"、"审视文档"、"项目文档化"、"代码规范文档"、"架构演进"时使用此技能。
 
